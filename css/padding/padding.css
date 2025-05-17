@@ -1,0 +1,19 @@
+body {
+    padding: 1px;
+}
+
+.box {
+    border: 5px solid;
+    font-size: 5em;
+    height: 250px;
+    width: 250px;
+    margin: auto; /* Thank God */
+}
+
+#box1 {
+    background-color: gold;
+}
+
+#box2 {
+    background-color: green;
+}

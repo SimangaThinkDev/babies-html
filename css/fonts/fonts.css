@@ -1,0 +1,12 @@
+@font-face {
+    font-family: PlayFair-Display;
+    src: url(PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+h1 {
+    font-family: Playfair-Display;
+}
+p {
+    font-family: Playfair-Display, sans-serif;
+    font-weight: normal;
+}

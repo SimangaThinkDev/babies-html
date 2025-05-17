@@ -1,0 +1,25 @@
+/* User Stories */
+
+    body {
+        padding: 10%;
+        background-color: black;
+    }
+
+    h1 {
+        color: rgb(117, 101, 11);
+        text-decoration-line: underline;
+    }
+
+    p {
+        color: white;
+    }
+
+    .odd {
+        color: lightblue;
+    }
+
+    .even {
+        color: coral;
+    }
+
+    /* ty :) */
