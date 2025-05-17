@@ -1,0 +1,42 @@
+.container {
+    position: relative;
+    display: inline-block;
+  }
+
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+/* 
+box-sizing border-box
+color rgb(255, 255, 255)
+display inline
+font-family "Playfair Display", serif
+font-size 46.6667px
+font-style normal
+font-variant-ligatures none
+font-weight 700
+height auto
+letter-spacing -0.8px
+line-height 51.8px
+overflow-wrap break-word
+text-align center
+text-size-adjust 100%
+width auto
+*/
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: 2px solid white; /* White border around text box */
+    padding: 10px 20px;       /* Space inside the box */
+    background: transparent;  /* No background color */
+    border-radius: 4px;       /* Optional: rounded corners */
+  }

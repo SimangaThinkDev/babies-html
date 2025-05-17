@@ -1,0 +1,4 @@
+https://ssl.gstatic.com/atari/images/sociallinks/email_white_28dp.png
+https://ssl.gstatic.com/atari/images/sociallinks/github_white_28dp.png
+https://ssl.gstatic.com/atari/images/sociallinks/link_white_28dp.png
+https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_28dp.png

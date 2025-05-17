@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+hr {
+    background-color: rgb(23, 22, 22);
+}
+
+header, footer {
+    background-color: rgb(23, 22, 22);
+    padding: 10px;
+}
+
+h1, h2, h3, h4 {
+    color: white;
+    font: "Playfair display";
+    text-align: center;
+}
+
+a, footer {
+    text-align: center;
+    font: "Playfair Display";
+    color: white;
+}
+
+#dog {
+    height: 250px;
+    margin-left: 31%;
+    margin-right: 26%;
+}
+
+p {
+    text-align: start;
+    color: white;
+}
